@@ -2,8 +2,8 @@
 **系统** : Ubuntu16.04
 
 ### 安装zsh
-```bash
+```python
 sudo apt-get install zsh
-[comment]: 切换命令行解释器
+# 切换命令行解释器
 chsh -s /usr/bin/zsh
 ```
