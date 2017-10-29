@@ -3,6 +3,6 @@
 ###安装zsh
 ```
 sudo apt-get install zsh
-#切换命令行解释器
+//切换命令行解释器
 chsh -s /usr/bin/zsh
 ```
