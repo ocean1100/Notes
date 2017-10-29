@@ -4,6 +4,6 @@
 ### 安装zsh
 ```bash
 sudo apt-get install zsh
-#切换命令行解释器
+[comment]: 切换命令行解释器
 chsh -s /usr/bin/zsh
 ```
